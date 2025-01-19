@@ -1,0 +1,8 @@
+NASA collects and analyzes vast amounts of data to better understand Earth's environment and climate. Their satellite observations, climate models, and data science tools contribute to crucial insights about climate change, weather forecasting, and natural disaster monitoring.
+
+Here’s how NASA leverages data science:
+
+NASA's satellite observations have provided essential data for climate research, contributing to a 0.15°C reduction in the uncertainty of global temperature measurements, and enhancing our understanding of climate change.
+Their climate models have helped predict the sea level rise with 95% accuracy, which is vital for coastal planning and adaptation strategies in the face of rising sea levels.
+NASA's data-driven natural disaster monitoring has enabled a 35% increase in the accuracy of hurricane track predictions, allowing for better preparedness and evacuation planning.
+Over the past decade, NASA's climate data and research have led to a 20% reduction in the margin of error in long-term climate projections, improving our ability to plan for and mitigate the impacts of climate change.
